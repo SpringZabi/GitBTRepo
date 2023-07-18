@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.474 s <<< FAILURE! - in TestSuite
+ConfigureAppium(Zabiulla.Udemyappium.MobileBrowserTest)  Time elapsed: 0.396 s  <<< FAILURE!
+java.lang.AbstractMethodError: org.openqa.selenium.remote.service.DriverService$Builder.loadSystemProperties()V
+

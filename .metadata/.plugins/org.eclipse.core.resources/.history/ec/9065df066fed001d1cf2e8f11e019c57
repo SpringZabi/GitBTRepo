@@ -1,0 +1,5 @@
+package org.springdigital.utility;
+
+public class AppiumUtils {
+
+}

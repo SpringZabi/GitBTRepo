@@ -1,0 +1,25 @@
+package script;
+
+import org.testng.annotations.Test;
+
+import generic.CommonBaseTest;
+import page.BtHomepage;
+import page.SignInPage;
+
+public class AddProductToWishListWithLogin extends CommonBaseTest {
+	
+	@Test
+	public void AddProductWithLogin() throws Throwable {
+		
+		BtHomepage bhp = new BtHomepage(driver);
+//		SignInPage signinpage = new SignInPage(driver);
+//		bhp.myAccount_Mouseover();
+//		Thread.sleep(2000);
+//		signinpage.singInClick();
+//		Thread.sleep(2000);
+	ValidSignIn validSignIn = new ValidSignIn();
+		validSignIn.testValidSignIn();
+		
+		
+	}
+}

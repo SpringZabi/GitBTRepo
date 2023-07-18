@@ -1,0 +1,18 @@
+package script;
+
+import org.testng.annotations.Test;
+
+import generic.CommonBaseTest;
+import page.BtHomepage;
+
+public class AddProductToWishListWithLogin extends CommonBaseTest {
+	
+	@Test
+	public void AddProductWithLogin() {
+		
+		BtHomepage bhp = new BtHomepage(driver);
+		bhp.myAccount_Mouseover();
+		
+		
+	}
+}

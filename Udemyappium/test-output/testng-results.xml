@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45306" started-at="2023-05-12T07:47:47Z" finished-at="2023-05-12T07:48:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45306" started-at="2023-05-12T07:47:47Z" finished-at="2023-05-12T07:48:32Z">
+      <class name="Zabiulla.Udemyappium.eCommerce_tc_5ScrollAddVerifyTheAmountAndSwitchToWebAndBackToNative">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:Zabiulla.Udemyappium.eCommerce_tc_5ScrollAddVerifyTheAmountAndSwitchToWebAndBackToNative@6ab7a896]" name="ConfigureAppium" is-config="true" duration-ms="9346" started-at="2023-05-12T07:47:47Z" finished-at="2023-05-12T07:47:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="Fillform()[pri:0, instance:Zabiulla.Udemyappium.eCommerce_tc_5ScrollAddVerifyTheAmountAndSwitchToWebAndBackToNative@6ab7a896]" name="Fillform" duration-ms="35514" started-at="2023-05-12T07:47:56Z" finished-at="2023-05-12T07:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Fillform -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Zabiulla.Udemyappium.eCommerce_tc_5ScrollAddVerifyTheAmountAndSwitchToWebAndBackToNative@6ab7a896]" name="tearDown" is-config="true" duration-ms="419" started-at="2023-05-12T07:48:32Z" finished-at="2023-05-12T07:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Zabiulla.Udemyappium.eCommerce_tc_5ScrollAddVerifyTheAmountAndSwitchToWebAndBackToNative -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
